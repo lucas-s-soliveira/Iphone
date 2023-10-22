@@ -6,6 +6,8 @@ public class Console   {
 	Telefone telefone = new Telefone();
 	
 	telefone.ligar( 933192322);
+	reprodutor.selecionarMusica("Dentro da hilux");
+	navegador.exibirPagina();
 	}
 
 }
